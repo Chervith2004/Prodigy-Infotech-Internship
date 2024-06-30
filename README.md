@@ -1,5 +1,5 @@
 # Prodigy_ML_Task_1
-
+Linkedin post link:https://www.linkedin.com/posts/gottipati-2004-chervith_machinelearning-prodigyinfotech-activity-7213134753024155648-ZJR3?utm_source=share&utm_medium=member_desktop
 
 
 House Price Prediction:
