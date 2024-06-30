@@ -1,6 +1,6 @@
 # Prodigy_ML_Task_1
 
-Here's a sample README for your program that you can use on GitHub:
+
 
 House Price Prediction:
 This project demonstrates a simple machine learning model to predict house prices based on features such as square footage, number of bedrooms, and number of bathrooms. The model uses Linear Regression and evaluates its performance using Mean Squared Error (MSE) and R² score.
